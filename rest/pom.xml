@@ -73,8 +73,7 @@
                         </goals>
                         <id>buildApi</id>
                         <configuration>
-                            <inputSpec>https://raw.githubusercontent.com/The-Petros-Team/travel-agency/main/travel-agency-open-api/catalog/catalog-api.yml
-                            </inputSpec>
+                            <inputSpec>https://raw.githubusercontent.com/The-Petros-Team/travel-agency-config-repo/main/rest-api/catalog-api.yml</inputSpec>
                             <generatorName>spring</generatorName>
                             <library>spring-boot</library>
 
