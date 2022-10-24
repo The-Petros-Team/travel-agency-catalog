@@ -1,5 +1,5 @@
 spring:
   application:
-    name: catalog
+    name: catalog-service
   config:
     import: configserver:https://travel-agency-config-server.herokuapp.com/
